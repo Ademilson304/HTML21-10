@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../home_page"
+		},
+		{
+			"path": "../listadetarefas"
+		},
+		{
+			"path": "../../Downloads/Check_List"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "home_page"
+	}
+}
